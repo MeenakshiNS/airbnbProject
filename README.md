@@ -1,3 +1,8 @@
+😎
+
+![image](https://github.com/MeenakshiNS/airbnbProject/assets/130451378/25ca266f-2bf8-42cd-aa82-a606f4d99d95)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
